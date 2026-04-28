@@ -1,3 +1,5 @@
+my_list = [1, 3, 5, 7, 9];
+
 def binary_search(list, item):
   low = 0
   high = len(list) - 1
